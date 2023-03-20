@@ -1,5 +1,4 @@
-# Python programming
-![](https://upload.wikimedia.org/wikipedia/en/c/cb/Flyingcircus_2.jpg)
+[](https://upload.wikimedia.org/wikipedia/en/c/cb/Flyingcircus_2.jpg)
 
 - [The Python Tutorial](https://alx-intranet.hbtn.io/rltoken/Fl7kjKxXgkbmX5P0-4k4tQ)
 - [Python Programming: An Introduction to Computer Science 3rd edition](https://alx-intranet.hbtn.io/rltoken/bYJx6WVz77ZDjwbV2R5ytA)
@@ -8,5 +7,4 @@
 - [New string formatting](https://alx-intranet.hbtn.io/rltoken/SUwBgkKMH7wiedG57WcT9A)
 - [Garbage collector](https://alx-intranet.hbtn.io/rltoken/CimKF3MlfErabvZWtFxHjg)
 - [Python Interpreter](https://alx-intranet.hbtn.io/rltoken/a5z3uSkiby1Xw679cFiw1Q)
-- [Python bytecode](https://alx-intranet.hbtn.io/rltoken/oJ2v8bVCLZmAowJ7WXLzJg)
-Copyright © 2022 ALX, All rights reserved.
+- [Python bytecode](https://alx-intranet.hbtn.io/rltoken/oJ2v8bVCLZmAowJ7WXLzJg
